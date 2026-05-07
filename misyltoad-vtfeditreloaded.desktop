@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=VTFEdit Reloaded
+Comment=VTF Editor
+Exec=vtfeditreloaded
+Icon=vtfeditreloaded
+Terminal=false
+Categories=Utility
