@@ -16,6 +16,7 @@ cp -r VTFEditReloaded "$WINEPREFIX/drive_c/Program Files/VTFEdit Reloaded"
 
 cp misyltoad-vtfeditreloaded.desktop "$HOME/.local/share/applications"
 sudo cp vtfeditreloaded.sh "/usr/bin/vtfeditreloaded"
+sudo cp vtfcmdreloaded.sh "/usr/bin/vtfcmdreloaded"
 
 sudo cp icons/16x16.png /usr/share/icons/hicolor/16x16/apps/vtfeditreloaded.png
 sudo cp icons/32x32.png /usr/share/icons/hicolor/32x32/apps/vtfeditreloaded.png
