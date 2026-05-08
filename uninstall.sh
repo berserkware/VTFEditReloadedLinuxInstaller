@@ -1,6 +1,6 @@
 rm -r "$HOME/.local/share/wineprefixes/vtfeditreloaded"
 
-rm "$HOME/.local/share/applications/misyltoad-vtfeditreloaded.desktop"
+rm "$HOME/.local/share/applications/berserkware-vtfeditreloaded.desktop"
 sudo rm "/usr/bin/vtfeditreloaded"
 sudo rm "/usr/bin/vtfcmdreloaded"
 
